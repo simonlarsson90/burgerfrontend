@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { render } from 'react-dom';
+import React from 'react';
+
 
 import { PriceList } from './components/PriceList';
 import { Cart } from './components/Cart';
